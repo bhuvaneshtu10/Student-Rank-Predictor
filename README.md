@@ -12,9 +12,9 @@ Usage
 
 Scripts Description
 
-Contributing
+Project overview video
 
-License
+Contributing
 
 ## Datasets
 Students_Grading_Dataset_Biased.csv: Dataset containing potentially biased student grades.
